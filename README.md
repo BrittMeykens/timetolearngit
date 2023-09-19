@@ -1,2 +1,2 @@
 # timetolearngit
-Im learning giy
+Im learning git
